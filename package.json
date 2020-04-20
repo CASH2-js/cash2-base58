@@ -1,7 +1,7 @@
 {
-  "name": "turtlecoin-base58",
+  "name": "cash2-base58",
   "version": "0.0.5",
-  "description": "TurtleCoin Base58",
+  "description": "CASH2 Base58",
   "types": "dist/base58.d.ts",
   "main": "dist/base58.js",
   "files": [
@@ -17,17 +17,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turtlecoin/node-turtlecoin-base58.git"
+    "url": "git+https://github.com/CASH2-js/cash2-base58.git"
   },
   "homepage": "https://base58.turtlecoin.dev",
   "bugs": {
-    "url": "https://github.com/turtlecoin/node-turtlecoin-base58/issues"
+    "url": "https://github.com/CASH2-js/cash2-base58/issues"
   },
   "keywords": [
-    "TurtleCoin",
     "Base58"
   ],
-  "author": "The TurtleCoin Developers",
+  "author": "The TurtleCoin Developers / wkibbler",
   "license": "GPL-3.0",
   "dependencies": {
     "big-integer": "^1.6.48"
